@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Saya Rofiq Hakim</h1>
-<h3 align="center">Full-Stack Web Developer 🚀</h3>
+<h1 align="center">Hi 👋, Saya Rofiq Hakim, Full-Stack Web Developer 🚀</h1>
 
 ---
 
