@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, Saya Rofiq Hakim</h1>
 <h3 align="center">Full-Stack Web Developer 🚀</h3>
-
-<p align="center">
-  <a href="mailto:email@example.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30"/>
-  </a>
-  <a href="https://github.com/SieghartSaladdin">
-    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="30"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 Tentang Saya
