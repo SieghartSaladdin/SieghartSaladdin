@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, Saya Rofiq Hakim, Full-Stack Web Developer 🚀</h1>
 
----
-
 ### 👨‍💻 Tentang Saya
 - 🌱 Saat ini belajar **Next.js** dan **TypeScript**
 - 💬 Tanya saya tentang **Vue**, **Laravel**, dan **Web Architecture**
