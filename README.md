@@ -1,7 +1,7 @@
 # Hi 👋, Saya Rofiq Hakim, Full-Stack Web Developer 🚀
 
 ### 👨‍💻 Tentang Saya
-- 🌱 Saat ini belajar **Next.js** dan **TypeScript**
+- 🌱 Saat ini belajar **Python** dan **Machine Learning**
 - 💬 Tanya saya tentang **Vue**, **Laravel**, dan **Web Architecture**
 - 📫 Kontak: **rofikhakim12@gmail.com**
 
