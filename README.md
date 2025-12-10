@@ -40,15 +40,5 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SieghartSaladdin&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SieghartSaladdin&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 🐍 Aktivitas GitHub
 ![Snake animation](https://github.com/SieghartSaladdin/SieghartSaladdin/blob/output/github-contribution-grid-snake.svg)
