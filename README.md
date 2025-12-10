@@ -8,30 +8,37 @@ Focus: **Vue, Laravel, Next.js**, and the **Python Ecosystem**.
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="35" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="35" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="35" alt="PHP"/>
-  <span style="margin-left: 10px;"></span>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="35" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="35" alt="Vue.js"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35" alt="Laravel"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="35" alt="Tailwind CSS"/>
-  <br/><br/>
-  
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="35" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="35" alt="Numpy"/>
-  <span style="margin-left: 10px;"></span>
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="35" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="35" alt="MongoDB"/>
-  <br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" alt="Docker"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="35" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="35" alt="Git"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
