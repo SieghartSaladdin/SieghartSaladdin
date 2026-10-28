@@ -1,4 +1,3 @@
-# Rofiq Hakim
 ### Full-Stack Developer & AI Enthusiast 🚀
 
 I am a web developer currently diving deep into **Data Science** and **Machine Learning**.
